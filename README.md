@@ -17,3 +17,5 @@ Se desarrolló un prototipo de una red social enfocado en la funcionalidad de me
 
 ## Metodología
 Se utilizó Scrum para la organización del trabajo, incluyendo Product Backlog, Sprint Backlog y seguimiento del Sprint.
+
+ACtualizacion del Sprint 1
